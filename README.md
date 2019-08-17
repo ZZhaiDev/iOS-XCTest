@@ -7,3 +7,6 @@
   2. How many tests are enough tests? In other words, have you architected enough tests to ensure that all of your code is being checked for correctness and performance?
   3. What parts of your code are not being tested?
 * After a test run is completed, Xcode takes the LLVM coverage data and uses it to create a coverage report in the Reports navigator, seen in the Coverage pane. It shows summary information about the test run, a listing of source files and functions within the files, and coverage percentage for each.
+
+## Other Resources
+* [How to Write Unit Tests in Swift](https://www.agnosticdev.com/content/how-write-unit-tests-swift)
