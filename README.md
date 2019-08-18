@@ -1,5 +1,9 @@
 # iOS-XCTest
 
+## Difference between Unit test and Integration test
+* `Unit tests`: A single piece of code (usually an object or a function) is tested, isolated from other pieces
+* `Integration tests`: Multiple pieces are tested together, for example testing database access code against a test database
+
 ## Code Coverage
 * Code coverage in Xcode is a testing option supported by LLVM. When you enable code coverage, LLVM instruments the code to gather coverage data based on the frequency that methods and functions are called. The code coverage option can collect data to report on tests of correctness and of performance, whether unit tests or UI tests.
 * Code coverage is a tool to measure the value of your tests. It answers the questions
