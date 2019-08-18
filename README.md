@@ -13,4 +13,6 @@
 * After a test run is completed, Xcode takes the LLVM coverage data and uses it to create a coverage report in the Reports navigator, seen in the Coverage pane. It shows summary information about the test run, a listing of source files and functions within the files, and coverage percentage for each.
 
 ## Other Resources
+* [Easy CI with fastlane: How we automated everything iOS from running tests to distributing a build](https://medium.com/aaptiv-engineering/easy-ci-with-fastlane-how-we-automated-everything-ios-from-running-tests-to-distributing-a-build-5ecbb817fba0)
+* [fastlane is the easiest way to automate beta deployments and releases for your iOS and Android apps](https://docs.fastlane.tools/)
 * [How to Write Unit Tests in Swift](https://www.agnosticdev.com/content/how-write-unit-tests-swift)
