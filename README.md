@@ -27,3 +27,6 @@ Continuous Integration (CI) is an automated way for you to test code and push bu
 * [Easy CI with fastlane: How we automated everything iOS from running tests to distributing a build](https://medium.com/aaptiv-engineering/easy-ci-with-fastlane-how-we-automated-everything-ios-from-running-tests-to-distributing-a-build-5ecbb817fba0)
 * [fastlane is the easiest way to automate beta deployments and releases for your iOS and Android apps](https://docs.fastlane.tools/)
 * [How to Write Unit Tests in Swift](https://www.agnosticdev.com/content/how-write-unit-tests-swift)
+* [The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)
+* [A complete list of articles on Unit Testing with Swift from 2017](https://medium.com/flawless-app-stories/a-complete-list-of-articles-on-unit-testing-with-swift-from-2017-9be8f046ef25)
+
